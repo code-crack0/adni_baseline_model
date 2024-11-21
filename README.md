@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/76851daf-a3e7-4206-9b31-abf0eb38d335)
 
 ### After converting the images to png (nii_to_png.py), we ended up having around 14000 png images. We then trained them on the ResNet model and the results have been shown below.
-### model_resnet.py need to be run after getting the train_test_split from the link below (Important: After downloading the folder you need to put it inside a directory called processed_images).
+### model_resnet.py need to be run after getting the train_test_split from the link below (Important: The folder should not be placed within the code folder).
 ### https://drive.google.com/drive/folders/1F7GTDNc4zQTfdw-9lFa2PIJu0znqsb3m?usp=drive_link
 ## Results
 ![image](https://github.com/user-attachments/assets/fc2654a8-494f-4c8e-ae58-f9b4640c516c)
